@@ -1,0 +1,29 @@
+body{
+    background-color: gray;
+    font-family: sans-serif;
+    
+}
+html{
+  display: block;
+}
+.links{
+    width: 400px;
+    height: auto;
+    background-color: yellow;
+    padding: 8px;
+    margin: 16px auto;
+}
+.shawarma{
+    font-size: 16px;
+    margin-bottom: 8px;
+    padding: 8px;
+}
+.Avocado{
+    font-size: 16px;
+    margin-bottom: 8px;
+    padding: 8px;
+}
+.chicken{
+    font-size: 16px;
+    padding: 8px;
+}
